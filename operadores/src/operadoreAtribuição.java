@@ -19,6 +19,6 @@ public class operadoreAtribuição {
         String nomeCompleto = "Felipe" + "Taveira"; 
 
 
-        System.out.println("Hello, World!");
+        System.out.println(nomeCompleto);
     }
 }
