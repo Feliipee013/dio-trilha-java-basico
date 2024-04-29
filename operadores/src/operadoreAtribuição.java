@@ -1,4 +1,4 @@
-public class operadores {
+public class operadoreAtribuição {
     public static void main(String[] args) throws Exception {
         // operador de atribuição
         String nome = "Felipe"; 
