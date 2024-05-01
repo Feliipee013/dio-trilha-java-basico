@@ -1,4 +1,5 @@
 public class  TiposVariaveis{
+  //teste
     public static void main(String[] args) throws Exception {
         byte numero1 = 100;
       short  numero2=numero1;
