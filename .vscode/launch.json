@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "dio-trilha-java-basico_35947def"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "dio-trilha-java-basico_35947def"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "CaixaEletronico",
