@@ -1,11 +1,11 @@
 public class operadoresRelacionais {
     public static void main(String[] args) {
-         //(==) Quando desejamos verificar se uma variável é igual a outra;
-        //(!=) ||        ||         ||            ||     é diferente da outra;
-        //(>)  ||        ||         ||            ||     é maior q a outra;
-        //(>=) ||        ||         ||            ||     é maior ou igual a outra;
-        //(<)  ||        ||         ||            ||     é menor q a outra;
-        //(<=) ||        ||         ||            ||     é menor ou igual a outra.
+         /*(==) Quando desejamos verificar se uma variável é igual a outra;
+        (!=) ||        ||         ||            ||     é diferente da outra;
+        (>)  ||        ||         ||            ||     é maior q a outra;
+        (>=) ||        ||         ||            ||     é maior ou igual a outra;
+        (<)  ||        ||         ||            ||     é menor q a outra;
+        (<=) ||        ||         ||            ||     é menor ou igual a outra.*/
 
         int numero1 = 1;
         int numero2 = 2;
